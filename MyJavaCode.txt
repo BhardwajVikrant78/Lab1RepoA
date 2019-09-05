@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 My  Java Code
+=======
+My Java Code
+Edited File
+>>>>>>> 7fbbfd0277e5d0c444b090950fd81ad0155e94db
